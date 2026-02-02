@@ -1,6 +1,6 @@
 # My Big-Ass Light Up Snowflake
 ## took absolute ages
-<img src="assets/snowflake_blue.png" alt="snowflake" width="400"/></br>
+<img src="https://github.com/CaffeinatedOpe/led-snowflake/blob/master/assets/snowflake_blue.png?raw=true" alt="snowflake" width="400"/></br>
 
 Technically this project was a few months ago, but I might as well make a github for it.
 
@@ -17,9 +17,9 @@ The build for this thing wasn't complicated, but it was tedious. I had to wire u
 I'll be honest, this is the real reason I made this github, just to put up some vids of the thing in action. <br/>
 
 <video width="320" height="240" controls>
-  <source src="assets/0001-0113.mp4" type="video/mp4">
+  <source src="https://github.com/CaffeinatedOpe/led-snowflake/raw/refs/heads/master/assets/0001-0113.mp4" type="video/mp4">
 </video>
 
 <video width="320" height="240" controls>
-  <source src="assets/0001-0143.mp4" type="video/mp4">
+  <source src="https://github.com/CaffeinatedOpe/led-snowflake/raw/refs/heads/master/assets/0001-0143.mp4" type="video/mp4">
 </video>
