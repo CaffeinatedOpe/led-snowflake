@@ -16,6 +16,6 @@ The build for this thing wasn't complicated, but it was tedious. I had to wire u
 ## Demos
 I'll be honest, this is the real reason I made this github, just to put up some vids of the thing in action. <br/>
 
-https://github.com/CaffeinatedOpe/led-snowflake/raw/refs/heads/master/assets/0001-0113.mp4
+https://github.com/user-attachments/assets/9254bb38-1c21-4ee0-83f0-359de358e899
 
-https://github.com/CaffeinatedOpe/led-snowflake/raw/refs/heads/master/assets/0001-0143.mp4
+https://github.com/user-attachments/assets/23f85f16-529d-4d95-929f-45e4c1e2579b
